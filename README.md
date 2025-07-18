@@ -1,4 +1,4 @@
 # Netflix Attrition Analysis
 HR Analytics Dashboard
 
-![Image](https://github.com/user-attachments/assets/2c0c4837-827f-439f-b46c-16bb37bf7c9a)
+![Image](https://github.com/user-attachments/assets/49712396-576a-40c1-9f8e-21cfdbc898d1)
